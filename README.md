@@ -23,4 +23,5 @@ The API provides endpoints to retrieve postal code information. Below is an exam
 
 #### Example Endpoint
 - Get All Postal Codes
-  postal_code.json
+  https://2018dayanan.github.io/static-postal-code-api/postal_code.json
+  
