@@ -1,0 +1,4099 @@
+{
+    "provinces": [
+        {
+            "name": "Province 1",
+            "district": [
+                {
+                    "name": "Solukhumbu",
+                    "places": [
+                        {
+                            "name": "Solukhumbu D.P.O.",
+                            "code": "56000"
+                        },
+                        {
+                            "name": "Namche Bazar",
+                            "code": "56002"
+                        },
+                        {
+                            "name": "Sotang",
+                            "code": "56004"
+                        },
+                        {
+                            "name": "Jubu",
+                            "code": "56005"
+                        },
+                        {
+                            "name": "Nele",
+                            "code": "56006"
+                        },
+                        {
+                            "name": "Necha",
+                            "code": "56007"
+                        },
+                        {
+                            "name": "Shishakhola",
+                            "code": "56008"
+                        },
+                        {
+                            "name": "Himganga",
+                            "code": "56009"
+                        },
+                        {
+                            "name": "Lukla",
+                            "code": "56010"
+                        }
+                    ]
+                },
+                {
+                    "name": "Okhaldhunga",
+                    "places": [
+                        {
+                            "name": "Okhaldhunga D.P.O",
+                            "code": "56100"
+                        },
+                        {
+                            "name": "Khani Bhanjyang",
+                            "code": "56101"
+                        },
+                        {
+                            "name": "Rumjatar",
+                            "code": "56102"
+                        },
+                        {
+                            "name": "Rampur",
+                            "code": "56104"
+                        },
+                        {
+                            "name": "Bigutar",
+                            "code": "56006"
+                        },
+                        {
+                            "name": "Khiji Phalate",
+                            "code": "56106"
+                        },
+                        {
+                            "name": "Gamanangtar",
+                            "code": "56107"
+                        },
+                        {
+                            "name": "Ghorakhori",
+                            "code": "56108"
+                        },
+                        {
+                            "name": "Chyanam",
+                            "code": "56109"
+                        },
+                        {
+                            "name": "Mane Bhanjyang",
+                            "code": "56110"
+                        },
+                        {
+                            "name": "Moli",
+                            "code": "56111"
+                        },
+                        {
+                            "name": "Ragani",
+                            "code": "56112"
+                        }
+                    ]
+                },
+                {
+                    "name": "Khotang",
+                    "places": [
+                        {
+                            "name": "Khotang D.P.O",
+                            "code": "56200"
+                        },
+                        {
+                            "name": "Wakshila",
+                            "code": "56201"
+                        },
+                        {
+                            "name": "Aiselukharka",
+                            "code": "56202"
+                        },
+                        {
+                            "name": "Jalpa",
+                            "code": "56204"
+                        },
+                        {
+                            "name": "Lamidanda",
+                            "code": "56205"
+                        },
+                        {
+                            "name": "Halesi mahadevasthan",
+                            "code": "56206"
+                        },
+                        {
+                            "name": "Buipa",
+                            "code": "56208"
+                        },
+                        {
+                            "name": "Manebhanjyang",
+                            "code": "56209"
+                        },
+                        {
+                            "name": "Sapteshworichhitapokhari",
+                            "code": "56210"
+                        },
+                        {
+                            "name": "Khotang",
+                            "code": "56211"
+                        },
+                        {
+                            "name": "Chisapani",
+                            "code": "56212"
+                        },
+                        {
+                            "name": "Simpani",
+                            "code": "56214"
+                        }
+                    ]
+                },
+                {
+                    "name": "Udaypur",
+                    "places": [
+                        {
+                            "name": "Udayapur D.P.O.",
+                            "code": "56300"
+                        },
+                        {
+                            "name": "Ratapani (Toksila)",
+                            "code": "56301"
+                        },
+                        {
+                            "name": "Beltar",
+                            "code": "56302"
+                        },
+                        {
+                            "name": "Hadiya",
+                            "code": "56303"
+                        },
+                        {
+                            "name": "Pokhari",
+                            "code": "56305"
+                        },
+                        {
+                            "name": "Baraha",
+                            "code": "56306"
+                        },
+                        {
+                            "name": "Bhutar",
+                            "code": "56307"
+                        },
+                        {
+                            "name": "Rampur Ghilke",
+                            "code": "56308"
+                        },
+                        {
+                            "name": "Udayapur gadhi",
+                            "code": "56309"
+                        },
+                        {
+                            "name": "Katari",
+                            "code": "56310"
+                        },
+                        {
+                            "name": "Sorung Chhabise",
+                            "code": "56311"
+                        },
+                        {
+                            "name": "Rauta Murkuchi",
+                            "code": "56312"
+                        }
+                    ]
+                },
+                {
+                    "name": "Morang",
+                    "places": [
+                        {
+                            "name": "Morang (E.R.P.D.)",
+                            "code": "56600"
+                        },
+                        {
+                            "name": "Chunimari",
+                            "code": "56601"
+                        },
+                        {
+                            "name": "Rangeli",
+                            "code": "56602"
+                        },
+                        {
+                            "name": "Sanischare",
+                            "code": "56603"
+                        },
+                        {
+                            "name": "Urlabari",
+                            "code": "56604"
+                        },
+                        {
+                            "name": "Madhumalla",
+                            "code": "56605"
+                        },
+                        {
+                            "name": "Bayarban",
+                            "code": "56606"
+                        },
+                        {
+                            "name": "Sorabhag",
+                            "code": "56607"
+                        },
+                        {
+                            "name": "Dadarberiya",
+                            "code": "56608"
+                        },
+                        {
+                            "name": "Letang",
+                            "code": "56609"
+                        },
+                        {
+                            "name": "Kerabari",
+                            "code": "56610"
+                        },
+                        {
+                            "name": "Haraincha",
+                            "code": "56611"
+                        },
+                        {
+                            "name": "Bhaudaha",
+                            "code": "56612"
+                        },
+                        {
+                            "name": "Biratnagar Bazar",
+                            "code": "56613"
+                        },
+                        {
+                            "name": "Rani Sikiyahi",
+                            "code": "56614"
+                        },
+                        {
+                            "name": "Jhorahat",
+                            "code": "56615"
+                        },
+                        {
+                            "name": "Banigama",
+                            "code": "56616"
+                        },
+                        {
+                            "name": "Bansbari",
+                            "code": "56617"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sunsari",
+                    "places": [
+                        {
+                            "name": "Sunsari D.P.O.",
+                            "code": "56700"
+                        },
+                        {
+                            "name": "Mangalbare",
+                            "code": "56702"
+                        },
+                        {
+                            "name": "Chatara",
+                            "code": "56703"
+                        },
+                        {
+                            "name": "Bakalauri",
+                            "code": "56704"
+                        },
+                        {
+                            "name": "Itahari",
+                            "code": "56705"
+                        },
+                        {
+                            "name": "Simariya",
+                            "code": "56706"
+                        },
+                        {
+                            "name": "Duhabi",
+                            "code": "56707"
+                        },
+                        {
+                            "name": "Chimadi",
+                            "code": "56708"
+                        },
+                        {
+                            "name": "Jhumka",
+                            "code": "56709"
+                        },
+                        {
+                            "name": "Inarauwa",
+                            "code": "56710"
+                        },
+                        {
+                            "name": "Aurabari",
+                            "code": "56711"
+                        },
+                        {
+                            "name": "Dewangunj",
+                            "code": "56712"
+                        },
+                        {
+                            "name": "Madhuban",
+                            "code": "56713"
+                        },
+                        {
+                            "name": "Laukahee",
+                            "code": "56714"
+                        },
+                        {
+                            "name": "Bhutaha",
+                            "code": "56715"
+                        },
+                        {
+                            "name": "Mahendra Nagar",
+                            "code": "56716"
+                        },
+                        {
+                            "name": "Chhitaha",
+                            "code": "56717"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dhankuta",
+                    "places": [
+                        {
+                            "name": "Dhankuta D.P.O.",
+                            "code": "56800"
+                        },
+                        {
+                            "name": "Mudhebash",
+                            "code": "56801"
+                        },
+                        {
+                            "name": "Rajarani",
+                            "code": "56802"
+                        },
+                        {
+                            "name": "Dandabazar",
+                            "code": "56803"
+                        },
+                        {
+                            "name": "Bhedetar",
+                            "code": "56804"
+                        },
+                        {
+                            "name": "Ankhisalla",
+                            "code": "56805"
+                        },
+                        {
+                            "name": "Hile",
+                            "code": "56806"
+                        },
+                        {
+                            "name": "Muga",
+                            "code": "56807"
+                        },
+                        {
+                            "name": "Teliya",
+                            "code": "56808"
+                        },
+                        {
+                            "name": "Pakhribash",
+                            "code": "56809"
+                        },
+                        {
+                            "name": "Leguwa",
+                            "code": "56810"
+                        },
+                        {
+                            "name": "Mare Katahare",
+                            "code": "56811"
+                        },
+                        {
+                            "name": "Arknaule",
+                            "code": "56812"
+                        },
+                        {
+                            "name": "Chungmang",
+                            "code": "56813"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sankhuwasava",
+                    "places": [
+                        {
+                            "name": "Sankhuwasabha D.P.O.",
+                            "code": "56900"
+                        },
+                        {
+                            "name": "Hatiya",
+                            "code": "56901"
+                        },
+                        {
+                            "name": "Hedangana",
+                            "code": "56902"
+                        },
+                        {
+                            "name": "Tamku",
+                            "code": "56903"
+                        },
+                        {
+                            "name": "Chandanpur",
+                            "code": "56904"
+                        },
+                        {
+                            "name": "Bahrabishe",
+                            "code": "56905"
+                        },
+                        {
+                            "name": "Tumlingtar",
+                            "code": "56906"
+                        },
+                        {
+                            "name": "Wana",
+                            "code": "56907"
+                        },
+                        {
+                            "name": "Shidhakali",
+                            "code": "56908"
+                        },
+                        {
+                            "name": "Madi",
+                            "code": "56909"
+                        },
+                        {
+                            "name": "Ankhibhui",
+                            "code": "56910"
+                        },
+                        {
+                            "name": "Mamling",
+                            "code": "56911"
+                        },
+                        {
+                            "name": "Manebhanjyang",
+                            "code": "56912"
+                        },
+                        {
+                            "name": "Chainpur",
+                            "code": "56913"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bhojpur",
+                    "places": [
+                        {
+                            "name": "Bhojpur D.P.O.",
+                            "code": "57000"
+                        },
+                        {
+                            "name": "Kulung Agrakhe",
+                            "code": "57001"
+                        },
+                        {
+                            "name": "Dingla",
+                            "code": "57002"
+                        },
+                        {
+                            "name": "Deurali",
+                            "code": "57003"
+                        },
+                        {
+                            "name": "Pyauli",
+                            "code": "57004"
+                        },
+                        {
+                            "name": "Yaku",
+                            "code": "57005"
+                        },
+                        {
+                            "name": "Bastim",
+                            "code": "57006"
+                        },
+                        {
+                            "name": "Timma",
+                            "code": "57008"
+                        },
+                        {
+                            "name": "Dilpa Annapurna",
+                            "code": "57009"
+                        },
+                        {
+                            "name": "Bhulke",
+                            "code": "57010"
+                        },
+                        {
+                            "name": "Baikunthe",
+                            "code": "57011"
+                        },
+                        {
+                            "name": "Ranibas",
+                            "code": "57012"
+                        },
+                        {
+                            "name": "Walangkha",
+                            "code": "57013"
+                        },
+                        {
+                            "name": "Tiwari Bhanjyang",
+                            "code": "57014"
+                        },
+                        {
+                            "name": "Dobhane",
+                            "code": "57015"
+                        }
+                    ]
+                },
+                {
+                    "name": "Terathum",
+                    "places": [
+                        {
+                            "name": "Terhathum D.P.O.",
+                            "code": "57100"
+                        },
+                        {
+                            "name": "Jirikhimti",
+                            "code": "57102"
+                        },
+                        {
+                            "name": "Tinjure",
+                            "code": "57103"
+                        },
+                        {
+                            "name": "Basantapur",
+                            "code": "57104"
+                        },
+                        {
+                            "name": "Sudap",
+                            "code": "57105"
+                        },
+                        {
+                            "name": "Hamarjung",
+                            "code": "57106"
+                        },
+                        {
+                            "name": "Morahang",
+                            "code": "57107"
+                        },
+                        {
+                            "name": "Pokalawang",
+                            "code": "57108"
+                        },
+                        {
+                            "name": "Mulpani",
+                            "code": "57110"
+                        },
+                        {
+                            "name": "Iwa",
+                            "code": "57111"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jhapa",
+                    "places": [
+                        {
+                            "name": "Jhapa D.P.O.",
+                            "code": "57200"
+                        },
+                        {
+                            "name": "Baniyani",
+                            "code": "57201"
+                        },
+                        {
+                            "name": "Goldhap",
+                            "code": "57202"
+                        },
+                        {
+                            "name": "Chandragadhi",
+                            "code": "57203"
+                        },
+                        {
+                            "name": "Birtamod",
+                            "code": "57204"
+                        },
+                        {
+                            "name": "Sanishchare",
+                            "code": "57205"
+                        },
+                        {
+                            "name": "Budhabare",
+                            "code": "57206"
+                        },
+                        {
+                            "name": "Dhulabari",
+                            "code": "57207"
+                        },
+                        {
+                            "name": "Kankarbhitta",
+                            "code": "57208"
+                        },
+                        {
+                            "name": "Rajgadh",
+                            "code": "57209"
+                        },
+                        {
+                            "name": "Durgapur",
+                            "code": "57210"
+                        },
+                        {
+                            "name": "Jhapa",
+                            "code": "57211"
+                        },
+                        {
+                            "name": "Dudhe",
+                            "code": "57212"
+                        },
+                        {
+                            "name": "Shivagunj",
+                            "code": "57213"
+                        },
+                        {
+                            "name": "Topagachhi",
+                            "code": "57214"
+                        },
+                        {
+                            "name": "Gaurigunj",
+                            "code": "57215"
+                        },
+                        {
+                            "name": "Gauradaha",
+                            "code": "57216"
+                        },
+                        {
+                            "name": "Damak",
+                            "code": "57217"
+                        }
+                    ]
+                },
+                {
+                    "name": "Illam",
+                    "places": [
+                        {
+                            "name": "Ilam D.P.O.",
+                            "code": "57300"
+                        },
+                        {
+                            "name": "Nayabazar",
+                            "code": "57302"
+                        },
+                        {
+                            "name": "Pashupatinagar",
+                            "code": "57303"
+                        },
+                        {
+                            "name": "Aaitabare",
+                            "code": "57304"
+                        },
+                        {
+                            "name": "Harkatebazar",
+                            "code": "57305"
+                        },
+                        {
+                            "name": "Gajurmukhi",
+                            "code": "57306"
+                        },
+                        {
+                            "name": "Mangal Bare",
+                            "code": "57307"
+                        },
+                        {
+                            "name": "Nepaltar",
+                            "code": "57308"
+                        },
+                        {
+                            "name": "Jamuna",
+                            "code": "57309"
+                        },
+                        {
+                            "name": "Gitpur",
+                            "code": "57310"
+                        },
+                        {
+                            "name": "Durgapur",
+                            "code": "57210"
+                        },
+                        {
+                            "name": "Cheesa Pani Panchami",
+                            "code": "57311"
+                        },
+                        {
+                            "name": "Phikal",
+                            "code": "57312"
+                        }
+                    ]
+                },
+                {
+                    "name": "Panchthar",
+                    "places": [
+                        {
+                            "name": "Panchthar D.P.O.",
+                            "code": "57400"
+                        },
+                        {
+                            "name": "Chyangthapu",
+                            "code": "57401"
+                        },
+                        {
+                            "name": "Ambarpur",
+                            "code": "57402"
+                        },
+                        {
+                            "name": "Namluwa",
+                            "code": "57403"
+                        },
+                        {
+                            "name": "Yangnam",
+                            "code": "57404"
+                        },
+                        {
+                            "name": "Nawamidanda",
+                            "code": "57406"
+                        },
+                        {
+                            "name": "Mehelbote",
+                            "code": "57407"
+                        },
+                        {
+                            "name": "Yasok",
+                            "code": "57408"
+                        },
+                        {
+                            "name": "Mauwa",
+                            "code": "57409"
+                        },
+                        {
+                            "name": "Rabi",
+                            "code": "57410"
+                        },
+                        {
+                            "name": "Limba",
+                            "code": "57411"
+                        },
+                        {
+                            "name": "Medibung",
+                            "code": "57412"
+                        }
+                    ]
+                },
+                {
+                    "name": "Taplejung",
+                    "places": [
+                        {
+                            "name": "Taplejung D.P.O.",
+                            "code": "57500"
+                        },
+                        {
+                            "name": "Khewang",
+                            "code": "57501"
+                        },
+                        {
+                            "name": "Sadeba",
+                            "code": "57502"
+                        },
+                        {
+                            "name": "Sinam",
+                            "code": "57503"
+                        },
+                        {
+                            "name": "Pedang",
+                            "code": "57504"
+                        },
+                        {
+                            "name": "Thechambu",
+                            "code": "57505"
+                        },
+                        {
+                            "name": "Siwang",
+                            "code": "57506"
+                        },
+                        {
+                            "name": "Khokling",
+                            "code": "57507"
+                        },
+                        {
+                            "name": "Olangchunggola",
+                            "code": "57508"
+                        },
+                        {
+                            "name": "Thokimba",
+                            "code": "57509"
+                        },
+                        {
+                            "name": "Dobhan",
+                            "code": "57510"
+                        },
+                        {
+                            "name": "Change",
+                            "code": "57511"
+                        },
+                        {
+                            "name": "Hangpang",
+                            "code": "57512"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Province 2",
+            "district": [
+                {
+                    "name": "Parsa",
+                    "places": [
+                        {
+                            "name": "Parsa D.P.O.",
+                            "code": "44300"
+                        },
+                        {
+                            "name": "Aadarshanagar",
+                            "code": "44301"
+                        },
+                        {
+                            "name": "Parbanipur",
+                            "code": "44303"
+                        },
+                        {
+                            "name": "Bindabasini",
+                            "code": "44304"
+                        },
+                        {
+                            "name": "Bahuari Pidari",
+                            "code": "44305"
+                        },
+                        {
+                            "name": "Shrisiya Khalwatola",
+                            "code": "44306"
+                        },
+                        {
+                            "name": "Biruwaguthi",
+                            "code": "44307"
+                        },
+                        {
+                            "name": "Pakahamainpur",
+                            "code": "44308"
+                        },
+                        {
+                            "name": "Phokhariya",
+                            "code": "44309"
+                        },
+                        {
+                            "name": "Ranigunj",
+                            "code": "44310"
+                        },
+                        {
+                            "name": "Paterwa Sugauli",
+                            "code": "44311"
+                        },
+                        {
+                            "name": "Viswa",
+                            "code": "44312"
+                        },
+                        {
+                            "name": "Janakitol",
+                            "code": "44313"
+                        },
+                        {
+                            "name": "Jeetpur",
+                            "code": "44314"
+                        },
+                        {
+                            "name": "Thori",
+                            "code": "44315"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bara",
+                    "places": [
+                        {
+                            "name": "Bara D.P.O.",
+                            "code": "44400"
+                        },
+                        {
+                            "name": "Nijgadh",
+                            "code": "44401"
+                        },
+                        {
+                            "name": "Mahendra Adarsha",
+                            "code": "44402"
+                        },
+                        {
+                            "name": "Simraungadh",
+                            "code": "44403"
+                        },
+                        {
+                            "name": "Umjan",
+                            "code": "44404"
+                        },
+                        {
+                            "name": "Bariyarpur",
+                            "code": "44405"
+                        },
+                        {
+                            "name": "Kabahigoth",
+                            "code": "44406"
+                        },
+                        {
+                            "name": "Dumarwana",
+                            "code": "44408"
+                        },
+                        {
+                            "name": "Pipradhigoth",
+                            "code": "44410"
+                        },
+                        {
+                            "name": "Basantapur",
+                            "code": "44411"
+                        },
+                        {
+                            "name": "Simara",
+                            "code": "44412"
+                        },
+                        {
+                            "name": "Parsoni",
+                            "code": "44413"
+                        },
+                        {
+                            "name": "Amalekhgung",
+                            "code": "44416"
+                        },
+                        {
+                            "name": "Jeetpur (Bhavanipur)",
+                            "code": "44417"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rautahat",
+                    "places": [
+                        {
+                            "name": "Rautahat D.P.O.",
+                            "code": "44500"
+                        },
+                        {
+                            "name": "Saruatha",
+                            "code": "44502"
+                        },
+                        {
+                            "name": "Pipara bazar",
+                            "code": "44503"
+                        },
+                        {
+                            "name": "Madhopur",
+                            "code": "44504"
+                        },
+                        {
+                            "name": "Rajpurpharahadawa",
+                            "code": "44506"
+                        },
+                        {
+                            "name": "Patharabudhram",
+                            "code": "44508"
+                        },
+                        {
+                            "name": "Sitalpur",
+                            "code": "44509"
+                        },
+                        {
+                            "name": "Shivanagar",
+                            "code": "44510"
+                        },
+                        {
+                            "name": "Laxminiya",
+                            "code": "44511"
+                        },
+                        {
+                            "name": "Kataharia",
+                            "code": "44512"
+                        },
+                        {
+                            "name": "Samanpur",
+                            "code": "44513"
+                        },
+                        {
+                            "name": "Chandra Nigahapur",
+                            "code": "44515"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dhanusa",
+                    "places": [
+                        {
+                            "name": "Dhanusha D.P.O.",
+                            "code": "45600"
+                        },
+                        {
+                            "name": "Khajuri",
+                            "code": "45601"
+                        },
+                        {
+                            "name": "Tinkoriya",
+                            "code": "45602"
+                        },
+                        {
+                            "name": "Yadukuha",
+                            "code": "45603"
+                        },
+                        {
+                            "name": "Duhabi",
+                            "code": "45604"
+                        },
+                        {
+                            "name": "Chakkar",
+                            "code": "45605"
+                        },
+                        {
+                            "name": "Raghunathpur",
+                            "code": "45606"
+                        },
+                        {
+                            "name": "Godar Chisapani",
+                            "code": "45607"
+                        },
+                        {
+                            "name": "Dhanushadham",
+                            "code": "45608"
+                        },
+                        {
+                            "name": "Bagachouda",
+                            "code": "45610"
+                        },
+                        {
+                            "name": "Jatahi",
+                            "code": "45611"
+                        },
+                        {
+                            "name": "Phulgama",
+                            "code": "45612"
+                        },
+                        {
+                            "name": "Sakhuwa Majemdranagar",
+                            "code": "45616"
+                        },
+                        {
+                            "name": "Dhalkebar",
+                            "code": "45617"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mahotari",
+                    "places": [
+                        {
+                            "name": "Mahottari D.P.O.",
+                            "code": "45700"
+                        },
+                        {
+                            "name": "Bardibash",
+                            "code": "45701"
+                        },
+                        {
+                            "name": "Bhangaha",
+                            "code": "45702"
+                        },
+                        {
+                            "name": "Loharpatti",
+                            "code": "45703"
+                        },
+                        {
+                            "name": "Pipara",
+                            "code": "45704"
+                        },
+                        {
+                            "name": "Matihani",
+                            "code": "45705"
+                        },
+                        {
+                            "name": "Raghunathpur",
+                            "code": "45707"
+                        },
+                        {
+                            "name": "Balawa",
+                            "code": "45708"
+                        },
+                        {
+                            "name": "Laxminiya",
+                            "code": "45710"
+                        },
+                        {
+                            "name": "Gaushala",
+                            "code": "45711"
+                        },
+                        {
+                            "name": "Shreepur",
+                            "code": "45712"
+                        },
+                        {
+                            "name": "Samsi",
+                            "code": "45713"
+                        },
+                        {
+                            "name": "Manara",
+                            "code": "45714"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sarlahi",
+                    "places": [
+                        {
+                            "name": "Sarlahi D.P.O.",
+                            "code": "45800"
+                        },
+                        {
+                            "name": "Lalbandi",
+                            "code": "45801"
+                        },
+                        {
+                            "name": "Bayalbas",
+                            "code": "45802"
+                        },
+                        {
+                            "name": "Haripoorwa",
+                            "code": "45803"
+                        },
+                        {
+                            "name": "Hariaun",
+                            "code": "45804"
+                        },
+                        {
+                            "name": "Haripur",
+                            "code": "45805"
+                        },
+                        {
+                            "name": "Brahmapuri",
+                            "code": "45806"
+                        },
+                        {
+                            "name": "Kaudena",
+                            "code": "45809"
+                        },
+                        {
+                            "name": "Barahathawa",
+                            "code": "45810"
+                        },
+                        {
+                            "name": "Sundarpur",
+                            "code": "45811"
+                        },
+                        {
+                            "name": "Dumariya",
+                            "code": "45813"
+                        },
+                        {
+                            "name": "Karmaiya",
+                            "code": "45814"
+                        },
+                        {
+                            "name": "Harkthawa",
+                            "code": "45815"
+                        },
+                        {
+                            "name": "Ramnagar(Bahuarwa)",
+                            "code": "45816"
+                        },
+                        {
+                            "name": "Chhatauna",
+                            "code": "45817"
+                        }
+                    ]
+                },
+                {
+                    "name": "Saptari",
+                    "places": [
+                        {
+                            "name": "Saptari D.P.O.",
+                            "code": "56400"
+                        },
+                        {
+                            "name": "Hanuman Nagar",
+                            "code": "56401"
+                        },
+                        {
+                            "name": "Bairaba",
+                            "code": "56402"
+                        },
+                        {
+                            "name": "Phattepur",
+                            "code": "56403"
+                        },
+                        {
+                            "name": "Kanchanpur",
+                            "code": "56404"
+                        },
+                        {
+                            "name": "Praswani",
+                            "code": "56405"
+                        },
+                        {
+                            "name": "Bhagawatpur",
+                            "code": "56406"
+                        },
+                        {
+                            "name": "Koiladi",
+                            "code": "56407"
+                        },
+                        {
+                            "name": "Chhinnamasta",
+                            "code": "56408"
+                        },
+                        {
+                            "name": "Bishnupur",
+                            "code": "56409"
+                        },
+                        {
+                            "name": "Rupani",
+                            "code": "56411"
+                        },
+                        {
+                            "name": "Pato",
+                            "code": "56412"
+                        },
+                        {
+                            "name": "Arnaha",
+                            "code": "56413"
+                        },
+                        {
+                            "name": "Kalyanpur",
+                            "code": "56414"
+                        },
+                        {
+                            "name": "Bodebarsain",
+                            "code": "56415"
+                        },
+                        {
+                            "name": "Sisawa",
+                            "code": "56416"
+                        },
+                        {
+                            "name": "Kadarwona",
+                            "code": "56417"
+                        },
+                        {
+                            "name": "Bhardaha",
+                            "code": "56418"
+                        }
+                    ]
+                },
+                {
+                    "name": "Siraha",
+                    "places": [
+                        {
+                            "name": "Siraha D.P.O.",
+                            "code": "56500"
+                        },
+                        {
+                            "name": "Bastipur",
+                            "code": "56501"
+                        },
+                        {
+                            "name": "Lahan",
+                            "code": "56502"
+                        },
+                        {
+                            "name": "Bhagawanpur",
+                            "code": "56503"
+                        },
+                        {
+                            "name": "Dhangadhi",
+                            "code": "56504"
+                        },
+                        {
+                            "name": "Maheshpur patari",
+                            "code": "56505"
+                        },
+                        {
+                            "name": "Bariyapatti",
+                            "code": "56506"
+                        },
+                        {
+                            "name": "Golbazar (Asanpur)",
+                            "code": "56508"
+                        },
+                        {
+                            "name": "Sukhipur",
+                            "code": "56509"
+                        },
+                        {
+                            "name": "Bishnupur",
+                            "code": "56511"
+                        },
+                        {
+                            "name": "Belha",
+                            "code": "56512"
+                        },
+                        {
+                            "name": "Madar",
+                            "code": "56513"
+                        },
+                        {
+                            "name": "Mirchaiya",
+                            "code": "56515"
+                        },
+                        {
+                            "name": "Bandipur",
+                            "code": "56516"
+                        },
+                        {
+                            "name": "Kalyanpur Jabdi",
+                            "code": "56517"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Province 3",
+            "district": [
+                {
+                    "name": "Chitwan",
+                    "places": [
+                        {
+                            "name": "Madi",
+                            "code": "33214"
+                        },
+                        {
+                            "name": "Chitwan D.P.O.",
+                            "code": "44200"
+                        },
+                        {
+                            "name": "Bhandara",
+                            "code": "44202"
+                        },
+                        {
+                            "name": "Khairahani",
+                            "code": "44203"
+                        },
+                        {
+                            "name": "Ratnanagar",
+                            "code": "44204"
+                        },
+                        {
+                            "name": "Jutpani",
+                            "code": "44205"
+                        },
+                        {
+                            "name": "Mugling",
+                            "code": "44206"
+                        },
+                        {
+                            "name": "Narayangadh",
+                            "code": "44207"
+                        },
+                        {
+                            "name": "Phulbari",
+                            "code": "44208"
+                        },
+                        {
+                            "name": "Rampur",
+                            "code": "44209"
+                        },
+                        {
+                            "name": "Meghuli",
+                            "code": "44210"
+                        },
+                        {
+                            "name": "Patihani",
+                            "code": "44211"
+                        },
+                        {
+                            "name": "Soshi Bazar",
+                            "code": "44212"
+                        },
+                        {
+                            "name": "Harinagar",
+                            "code": "44213"
+                        }
+                    ]
+                },
+                {
+                    "name": "Makwanpur",
+                    "places": [
+                        {
+                            "name": "Makawanpur D.P.O.",
+                            "code": "44100"
+                        },
+                        {
+                            "name": "Phaparbari",
+                            "code": "44101"
+                        },
+                        {
+                            "name": "Ritha Chhatiban",
+                            "code": "44102"
+                        },
+                        {
+                            "name": "Hatiya",
+                            "code": "44103"
+                        },
+                        {
+                            "name": "Aambhanjyang",
+                            "code": "44104"
+                        },
+                        {
+                            "name": "Manahari",
+                            "code": "44106"
+                        },
+                        {
+                            "name": "Hetauda I.A.",
+                            "code": "44107"
+                        },
+                        {
+                            "name": "Basamadi",
+                            "code": "44108"
+                        },
+                        {
+                            "name": "Palung",
+                            "code": "44110"
+                        },
+                        {
+                            "name": "Bhaise",
+                            "code": "44111"
+                        },
+                        {
+                            "name": "Bhimphedi",
+                            "code": "44112"
+                        },
+                        {
+                            "name": "Markhu",
+                            "code": "44113"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kathmandu",
+                    "places": [
+                        {
+                            "name": "Kathmandu",
+                            "code": "44600"
+                        },
+                        {
+                            "name": "Sankhu",
+                            "code": "44101"
+                        },
+                        {
+                            "name": "Chabahil",
+                            "code": "44602"
+                        },
+                        {
+                            "name": "Sundarijal",
+                            "code": "44604"
+                        },
+                        {
+                            "name": "Dillibazar",
+                            "code": "44605"
+                        },
+                        {
+                            "name": "Manahari",
+                            "code": "44106"
+                        },
+                        {
+                            "name": "Bansbari",
+                            "code": "44606"
+                        },
+                        {
+                            "name": "Tokha Saraswati",
+                            "code": "44608"
+                        },
+                        {
+                            "name": "Sachibalaya",
+                            "code": "44609"
+                        },
+                        {
+                            "name": "Manmaiju",
+                            "code": "44610"
+                        },
+                        {
+                            "name": "Balaju",
+                            "code": "44611"
+                        },
+                        {
+                            "name": "Tribhuvan University",
+                            "code": "44613"
+                        },
+                        {
+                            "name": "Kalimati",
+                            "code": "44614"
+                        },
+                        {
+                            "name": "Pharping",
+                            "code": "44615"
+                        },
+                        {
+                            "name": "Baluwatar",
+                            "code": "44616"
+                        },
+                        {
+                            "name": "Sarbochcha Adalat",
+                            "code": "44617"
+                        },
+                        {
+                            "name": "Kirtipur",
+                            "code": "44618"
+                        },
+                        {
+                            "name": "Thankot",
+                            "code": "44619"
+                        },
+                        {
+                            "name": "Swayambhu",
+                            "code": "44620"
+                        },
+                        {
+                            "name": "Pashupati",
+                            "code": "44621"
+                        },
+                        {
+                            "name": "Budhanilkantha",
+                            "code": "44622"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lalitpur",
+                    "places": [
+                        {
+                            "name": "Lalitpur D.P.O.",
+                            "code": "44700"
+                        },
+                        {
+                            "name": "Dhapakhel",
+                            "code": "44703"
+                        },
+                        {
+                            "name": "Imadol",
+                            "code": "44705"
+                        },
+                        {
+                            "name": "Darabartole",
+                            "code": "44707"
+                        },
+                        {
+                            "name": "Lubhu",
+                            "code": "44708"
+                        },
+                        {
+                            "name": "Godawari",
+                            "code": "44709"
+                        },
+                        {
+                            "name": "Chapagaun",
+                            "code": "44710"
+                        },
+                        {
+                            "name": "Gotikhel",
+                            "code": "44711"
+                        },
+                        {
+                            "name": "Bhattedanda",
+                            "code": "44712"
+                        },
+                        {
+                            "name": "Putar",
+                            "code": "44713"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bhaktapur",
+                    "places": [
+                        {
+                            "name": "Bhaktapur D.P.O.",
+                            "code": "44800"
+                        },
+                        {
+                            "name": "Dubakot",
+                            "code": "44802"
+                        },
+                        {
+                            "name": "Kharipati",
+                            "code": "44804"
+                        },
+                        {
+                            "name": "Tathali",
+                            "code": "44805"
+                        },
+                        {
+                            "name": "Jorpati",
+                            "code": "44806"
+                        },
+                        {
+                            "name": "Gaamcha",
+                            "code": "44809"
+                        },
+                        {
+                            "name": "Dibyashwori",
+                            "code": "44810"
+                        },
+                        {
+                            "name": "Thimi",
+                            "code": "44811"
+                        },
+                        {
+                            "name": "Nagarkot",
+                            "code": "44812"
+                        }
+                    ]
+                },
+                {
+                    "name": "Nuwakot",
+                    "places": [
+                        {
+                            "name": "Nuwakot D.P.O.",
+                            "code": "44900"
+                        },
+                        {
+                            "name": "Thansingh",
+                            "code": "44902"
+                        },
+                        {
+                            "name": "Ranipauwa",
+                            "code": "44903"
+                        },
+                        {
+                            "name": "Taruka",
+                            "code": "44905"
+                        },
+                        {
+                            "name": "Deurali",
+                            "code": "44906"
+                        },
+                        {
+                            "name": "Kahule",
+                            "code": "44907"
+                        },
+                        {
+                            "name": "Nuwakot",
+                            "code": "44908"
+                        },
+                        {
+                            "name": "Chokade",
+                            "code": "44909"
+                        },
+                        {
+                            "name": "Kharanitar",
+                            "code": "44910"
+                        },
+                        {
+                            "name": "Bhadratar",
+                            "code": "44911"
+                        },
+                        {
+                            "name": "Ramabati",
+                            "code": "44912"
+                        },
+                        {
+                            "name": "Rautbesi",
+                            "code": "44913"
+                        },
+                        {
+                            "name": "Pokharichapdanda",
+                            "code": "44914"
+                        },
+                        {
+                            "name": "Devighat",
+                            "code": "44915"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rasuwa",
+                    "places": [
+                        {
+                            "name": "Rasuwa D.P.O.",
+                            "code": "45000"
+                        },
+                        {
+                            "name": "Dhaibung",
+                            "code": "45003"
+                        },
+                        {
+                            "name": "Ramkali",
+                            "code": "45004"
+                        },
+                        {
+                            "name": "Rasuwa",
+                            "code": "45007"
+                        },
+                        {
+                            "name": "Deurali",
+                            "code": "44906"
+                        },
+                        {
+                            "name": "Syaphru Besi",
+                            "code": "45009"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dhading",
+                    "places": [
+                        {
+                            "name": "Dhading D.P.O.",
+                            "code": "45100"
+                        },
+                        {
+                            "name": "Lapa",
+                            "code": "45101"
+                        },
+                        {
+                            "name": "Sertung",
+                            "code": "45102"
+                        },
+                        {
+                            "name": "Phulkharka",
+                            "code": "45103"
+                        },
+                        {
+                            "name": "Tripureshwor",
+                            "code": "45104"
+                        },
+                        {
+                            "name": "Katunje",
+                            "code": "45105"
+                        },
+                        {
+                            "name": "Sunkhani",
+                            "code": "45106"
+                        },
+                        {
+                            "name": "Sunaulabazar",
+                            "code": "45108"
+                        },
+                        {
+                            "name": "Maidi",
+                            "code": "45109"
+                        },
+                        {
+                            "name": "Khanikhola",
+                            "code": "45110"
+                        },
+                        {
+                            "name": "Bhumisthan",
+                            "code": "45111"
+                        },
+                        {
+                            "name": "Gajuri",
+                            "code": "45112"
+                        },
+                        {
+                            "name": "Malekhu",
+                            "code": "45113"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kavrepalanchowk",
+                    "places": [
+                        {
+                            "name": "Kavrepalanchok D.P.O.",
+                            "code": "45200"
+                        },
+                        {
+                            "name": "Ghartichhap",
+                            "code": "45201"
+                        },
+                        {
+                            "name": "Mangaltar",
+                            "code": "45202"
+                        },
+                        {
+                            "name": "Pokharinarayanshthan",
+                            "code": "45203"
+                        },
+                        {
+                            "name": "Gumati Bhanjyang",
+                            "code": "45204"
+                        },
+                        {
+                            "name": "Dapcha",
+                            "code": "45205"
+                        },
+                        {
+                            "name": "Panauti",
+                            "code": "45209"
+                        },
+                        {
+                            "name": "Banepa",
+                            "code": "45210"
+                        },
+                        {
+                            "name": "Panchkhal",
+                            "code": "45212"
+                        },
+                        {
+                            "name": "Mahadevasthan",
+                            "code": "45213"
+                        },
+                        {
+                            "name": "Phalate",
+                            "code": "45214"
+                        },
+                        {
+                            "name": "Dolal Ghat",
+                            "code": "45215"
+                        },
+                        {
+                            "name": "Khopasi",
+                            "code": "45216"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sindhupalchowk",
+                    "places": [
+                        {
+                            "name": "Sindhupalchok D.P.O.",
+                            "code": "45300"
+                        },
+                        {
+                            "name": "Kodari",
+                            "code": "45301"
+                        },
+                        {
+                            "name": "Barabise",
+                            "code": "45302"
+                        },
+                        {
+                            "name": "Atarpu",
+                            "code": "45304"
+                        },
+                        {
+                            "name": "Lamosanghu",
+                            "code": "45305"
+                        },
+                        {
+                            "name": "Nawalpur",
+                            "code": "45306"
+                        },
+                        {
+                            "name": "Pantan",
+                            "code": "45307"
+                        },
+                        {
+                            "name": "Jalbire",
+                            "code": "45308"
+                        },
+                        {
+                            "name": "Bhotsipa",
+                            "code": "45309"
+                        },
+                        {
+                            "name": "Melamchi Bahunepati",
+                            "code": "45310"
+                        },
+                        {
+                            "name": "Gyalthum",
+                            "code": "45311"
+                        },
+                        {
+                            "name": "Thangapaldhap",
+                            "code": "45312"
+                        },
+                        {
+                            "name": "Dubachaur",
+                            "code": "45313"
+                        },
+                        {
+                            "name": "Balephi",
+                            "code": "45314"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ramechap",
+                    "places": [
+                        {
+                            "name": "Ramechhap D.P.O.",
+                            "code": "45400"
+                        },
+                        {
+                            "name": "Those",
+                            "code": "45401"
+                        },
+                        {
+                            "name": "Duragaun",
+                            "code": "45402"
+                        },
+                        {
+                            "name": "Betali",
+                            "code": "45403"
+                        },
+                        {
+                            "name": "Khimti",
+                            "code": "45404"
+                        },
+                        {
+                            "name": "Saghutar",
+                            "code": "45405"
+                        },
+                        {
+                            "name": "Kathjor",
+                            "code": "45406"
+                        },
+                        {
+                            "name": "Puranagaun",
+                            "code": "45408"
+                        },
+                        {
+                            "name": "Doramba",
+                            "code": "45409"
+                        },
+                        {
+                            "name": "Hiledevi",
+                            "code": "45410"
+                        },
+                        {
+                            "name": "Bhirpani",
+                            "code": "45411"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dolkha",
+                    "places": [
+                        {
+                            "name": "Dolakha D.P.O.",
+                            "code": "45500"
+                        },
+                        {
+                            "name": "Khahare",
+                            "code": "45501"
+                        },
+                        {
+                            "name": "Namdu",
+                            "code": "45502"
+                        },
+                        {
+                            "name": "Jiri",
+                            "code": "45503"
+                        },
+                        {
+                            "name": "Japhekalapani",
+                            "code": "45505"
+                        },
+                        {
+                            "name": "Melung",
+                            "code": "45506"
+                        },
+                        {
+                            "name": "Bhusapheda",
+                            "code": "45507"
+                        },
+                        {
+                            "name": "Sunkhani",
+                            "code": "45509"
+                        },
+                        {
+                            "name": "Khopachaagu",
+                            "code": "45510"
+                        },
+                        {
+                            "name": "Lamabagar",
+                            "code": "45511"
+                        },
+                        {
+                            "name": "Chitre",
+                            "code": "45512"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sindhuli",
+                    "places": [
+                        {
+                            "name": "Sindhuli D.P.O.",
+                            "code": "45900"
+                        },
+                        {
+                            "name": "Solpa",
+                            "code": "45901"
+                        },
+                        {
+                            "name": "Bahun Tilpung",
+                            "code": "45902"
+                        },
+                        {
+                            "name": "Dudhauli",
+                            "code": "45903"
+                        },
+                        {
+                            "name": "Dakaha",
+                            "code": "45904"
+                        },
+                        {
+                            "name": "Gwaltar",
+                            "code": "45905"
+                        },
+                        {
+                            "name": "Khurkot",
+                            "code": "45906"
+                        },
+                        {
+                            "name": "Belghari",
+                            "code": "45907"
+                        },
+                        {
+                            "name": "Bhiman",
+                            "code": "45909"
+                        },
+                        {
+                            "name": "Jhanga Jholi",
+                            "code": "45910"
+                        },
+                        {
+                            "name": "Netrakali",
+                            "code": "45911"
+                        },
+                        {
+                            "name": "Kapilakot",
+                            "code": "45912"
+                        },
+                        {
+                            "name": "Pipalmadhiratanpur",
+                            "code": "45913"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Province 4",
+            "district": [
+                {
+                    "name": "Mustang",
+                    "places": [
+                        {
+                            "name": "Mustang D.P.O.",
+                            "code": "33100"
+                        },
+                        {
+                            "name": "Marpha",
+                            "code": "33102"
+                        },
+                        {
+                            "name": "Kagbeni",
+                            "code": "33103"
+                        },
+                        {
+                            "name": "Charang",
+                            "code": "33104"
+                        },
+                        {
+                            "name": "Mustang",
+                            "code": "33105"
+                        },
+                        {
+                            "name": "Chhoser",
+                            "code": "33106"
+                        },
+                        {
+                            "name": "Muktinath",
+                            "code": "33107"
+                        },
+                        {
+                            "name": "Lete",
+                            "code": "33108"
+                        },
+                        {
+                            "name": "Thak Tukuche",
+                            "code": "33109"
+                        }
+                    ]
+                },
+                {
+                    "name": "Myagdi",
+                    "places": [
+                        {
+                            "name": "Myagdi D.P.O.",
+                            "code": "33200"
+                        },
+                        {
+                            "name": "Lulang",
+                            "code": "33201"
+                        },
+                        {
+                            "name": "Xyamarukot",
+                            "code": "33202"
+                        },
+                        {
+                            "name": "Galeswor",
+                            "code": "33203"
+                        },
+                        {
+                            "name": "Rakhu Bagawati",
+                            "code": "33204"
+                        },
+                        {
+                            "name": "Sikha",
+                            "code": "33205"
+                        },
+                        {
+                            "name": "Dana",
+                            "code": "33206"
+                        },
+                        {
+                            "name": "Babiyachaur",
+                            "code": "33207"
+                        },
+                        {
+                            "name": "Darbang",
+                            "code": "33208"
+                        },
+                        {
+                            "name": "Pakhapani",
+                            "code": "33209"
+                        },
+                        {
+                            "name": "Takam",
+                            "code": "33210"
+                        }
+                    ]
+                },
+                {
+                    "name": "Baglung",
+                    "places": [
+                        {
+                            "name": "Baglung D.P.O.",
+                            "code": "33300"
+                        },
+                        {
+                            "name": "Bihukot",
+                            "code": "33303"
+                        },
+                        {
+                            "name": "Harichaur",
+                            "code": "33304"
+                        },
+                        {
+                            "name": "Balewa Payupata",
+                            "code": "33305"
+                        },
+                        {
+                            "name": "Jaidi Belbagar",
+                            "code": "33306"
+                        },
+                        {
+                            "name": "Galkot",
+                            "code": "33308"
+                        },
+                        {
+                            "name": "Arnakot",
+                            "code": "33310"
+                        },
+                        {
+                            "name": "Khawrwang",
+                            "code": "33311"
+                        },
+                        {
+                            "name": "Kusmishera",
+                            "code": "33313"
+                        }
+                    ]
+                },
+                {
+                    "name": "Parbat",
+                    "places": [
+                        {
+                            "name": "Parbat D.P.O.",
+                            "code": "33400"
+                        },
+                        {
+                            "name": "Salija",
+                            "code": "33401"
+                        },
+                        {
+                            "name": "Khurkot",
+                            "code": "33402"
+                        },
+                        {
+                            "name": "Deurali",
+                            "code": "33403"
+                        },
+                        {
+                            "name": "Thulipokhari",
+                            "code": "33405"
+                        },
+                        {
+                            "name": "Karkineta",
+                            "code": "33406"
+                        },
+                        {
+                            "name": "Devisthan",
+                            "code": "33407"
+                        },
+                        {
+                            "name": "Bachchha",
+                            "code": "33408"
+                        },
+                        {
+                            "name": "Lankhudeurali",
+                            "code": "33409"
+                        },
+                        {
+                            "name": "Hubas",
+                            "code": "33410"
+                        },
+                        {
+                            "name": "Khor Pokhara",
+                            "code": "33411"
+                        },
+                        {
+                            "name": "Setibeni",
+                            "code": "33412"
+                        }
+                    ]
+                },
+                {
+                    "name": "Manang",
+                    "places": [
+                        {
+                            "name": "Manang D.P.O.",
+                            "code": "33500"
+                        },
+                        {
+                            "name": "Pisang",
+                            "code": "33502"
+                        },
+                        {
+                            "name": "Bhakra",
+                            "code": "33503"
+                        },
+                        {
+                            "name": "Mathillo Manang",
+                            "code": "33504"
+                        },
+                        {
+                            "name": "Nar",
+                            "code": "33507"
+                        },
+                        {
+                            "name": "Dharapani",
+                            "code": "33509"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lamjung",
+                    "places": [
+                        {
+                            "name": "Lamjung D.P.O.",
+                            "code": "33600"
+                        },
+                        {
+                            "name": "Maling",
+                            "code": "33602"
+                        },
+                        {
+                            "name": "Sundar Bazar",
+                            "code": "33603"
+                        },
+                        {
+                            "name": "Sotipasal",
+                            "code": "33604"
+                        },
+                        {
+                            "name": "Kunchha",
+                            "code": "33605"
+                        },
+                        {
+                            "name": "Gilung",
+                            "code": "33606"
+                        },
+                        {
+                            "name": "Khudi",
+                            "code": "33607"
+                        },
+                        {
+                            "name": "Phaliyasanghu",
+                            "code": "33608"
+                        },
+                        {
+                            "name": "Bharate",
+                            "code": "33609"
+                        },
+                        {
+                            "name": "Gaunda",
+                            "code": "33610"
+                        },
+                        {
+                            "name": "Tarkughat",
+                            "code": "33611"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kaski",
+                    "places": [
+                        {
+                            "name": "Kaski (W.R.P.D.)",
+                            "code": "33700"
+                        },
+                        {
+                            "name": "Rupakot",
+                            "code": "33701"
+                        },
+                        {
+                            "name": "Gagan Gauda",
+                            "code": "33702"
+                        },
+                        {
+                            "name": "Makaikhola",
+                            "code": "33703"
+                        },
+                        {
+                            "name": "Majhathana",
+                            "code": "33704"
+                        },
+                        {
+                            "name": "Sildujure",
+                            "code": "33705"
+                        },
+                        {
+                            "name": "Nirmalpokhari",
+                            "code": "33706"
+                        },
+                        {
+                            "name": "Pardibandh",
+                            "code": "33707"
+                        },
+                        {
+                            "name": "Bhalam",
+                            "code": "33708"
+                        },
+                        {
+                            "name": "Chapakot",
+                            "code": "33709"
+                        },
+                        {
+                            "name": "Birethati",
+                            "code": "33710"
+                        },
+                        {
+                            "name": "Naudanda",
+                            "code": "33711"
+                        },
+                        {
+                            "name": "Ghachok",
+                            "code": "33712"
+                        },
+                        {
+                            "name": "Purunchaur",
+                            "code": "33713"
+                        }
+                    ]
+                },
+                {
+                    "name": "Syangja",
+                    "places": [
+                        {
+                            "name": "Syangja D.P.O.",
+                            "code": "33800"
+                        },
+                        {
+                            "name": "Kolma",
+                            "code": "33802"
+                        },
+                        {
+                            "name": "Kichnas",
+                            "code": "33803"
+                        },
+                        {
+                            "name": "Jharkham",
+                            "code": "33804"
+                        },
+                        {
+                            "name": "Arjunchaupari",
+                            "code": "33805"
+                        },
+                        {
+                            "name": "Panchamul",
+                            "code": "33806"
+                        },
+                        {
+                            "name": "Rangethati",
+                            "code": "33807"
+                        },
+                        {
+                            "name": "Fedikhola",
+                            "code": "33808"
+                        },
+                        {
+                            "name": "Bhumare",
+                            "code": "33811"
+                        },
+                        {
+                            "name": "Kyakmi",
+                            "code": "33812"
+                        },
+                        {
+                            "name": "Waidha Bhanjhyang",
+                            "code": "33813"
+                        },
+                        {
+                            "name": "Chapakot",
+                            "code": "33814"
+                        },
+                        {
+                            "name": "Galyang",
+                            "code": "33815"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tanahu",
+                    "places": [
+                        {
+                            "name": "Tanahun D.P.O.",
+                            "code": "33900"
+                        },
+                        {
+                            "name": "Tuhure Pasal",
+                            "code": "33902"
+                        },
+                        {
+                            "name": "Manechouka",
+                            "code": "33903"
+                        },
+                        {
+                            "name": "Bandipur",
+                            "code": "33904"
+                        },
+                        {
+                            "name": "Aambu Khaireni",
+                            "code": "33905"
+                        },
+                        {
+                            "name": "Baidi",
+                            "code": "33806"
+                        },
+                        {
+                            "name": "Kahunshivapur",
+                            "code": "33907"
+                        },
+                        {
+                            "name": "Rising Ranipokhari",
+                            "code": "33908"
+                        },
+                        {
+                            "name": "Ghiring Sundhara",
+                            "code": "33909"
+                        },
+                        {
+                            "name": "Bhimad",
+                            "code": "33910"
+                        },
+                        {
+                            "name": "Lamagaun",
+                            "code": "33911"
+                        },
+                        {
+                            "name": "Khairenitar",
+                            "code": "33912"
+                        },
+                        {
+                            "name": "Shisha Ghat",
+                            "code": "33913"
+                        },
+                        {
+                            "name": "Dumre",
+                            "code": "33914"
+                        },
+                        {
+                            "name": "Devaghat",
+                            "code": "33915"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tanahu",
+                    "places": [
+                        {
+                            "name": "Gorkha D.P.O.",
+                            "code": "34000"
+                        },
+                        {
+                            "name": "Bunkot",
+                            "code": "34002"
+                        },
+                        {
+                            "name": "Manakamana",
+                            "code": "34003"
+                        },
+                        {
+                            "name": "Batase",
+                            "code": "34004"
+                        },
+                        {
+                            "name": "Luintel",
+                            "code": "34005"
+                        },
+                        {
+                            "name": "Aapapipal",
+                            "code": "34006"
+                        },
+                        {
+                            "name": "Jaubari",
+                            "code": "34007"
+                        },
+                        {
+                            "name": "Bhachchek",
+                            "code": "34008"
+                        },
+                        {
+                            "name": "Sourpani",
+                            "code": "34009"
+                        },
+                        {
+                            "name": "Ghyampesal",
+                            "code": "34010"
+                        },
+                        {
+                            "name": "Aarughat",
+                            "code": "34011"
+                        },
+                        {
+                            "name": "Gumda",
+                            "code": "34012"
+                        },
+                        {
+                            "name": "Sirdibash",
+                            "code": "34013"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Province 5",
+            "district": [
+                {
+                    "name": "Bardiya",
+                    "places": [
+                        {
+                            "name": "Bardiya D.P.O.",
+                            "code": "21800"
+                        },
+                        {
+                            "name": "Jamuni",
+                            "code": "21801"
+                        },
+                        {
+                            "name": "Mainapokhar",
+                            "code": "21802"
+                        },
+                        {
+                            "name": "Motipur",
+                            "code": "21803"
+                        },
+                        {
+                            "name": "Magaragadi",
+                            "code": "21804"
+                        },
+                        {
+                            "name": "Baganaha",
+                            "code": "21808"
+                        },
+                        {
+                            "name": "Bhurigaun",
+                            "code": "21809"
+                        },
+                        {
+                            "name": "Rajapur",
+                            "code": "21811"
+                        },
+                        {
+                            "name": "Pashupatinagar",
+                            "code": "21813"
+                        },
+                        {
+                            "name": "Sanoshri",
+                            "code": "21814"
+                        }
+                    ]
+                },
+                {
+                    "name": "Baanke",
+                    "places": [
+                        {
+                            "name": "Banke D.P.O.",
+                            "code": "21900"
+                        },
+                        {
+                            "name": "Suiya",
+                            "code": "21901"
+                        },
+                        {
+                            "name": "Bhojbhagawanpur",
+                            "code": "21902"
+                        },
+                        {
+                            "name": "Khaskusma",
+                            "code": "21903"
+                        },
+                        {
+                            "name": "Kohalapur",
+                            "code": "21904"
+                        },
+                        {
+                            "name": "Ramjha",
+                            "code": "21905"
+                        },
+                        {
+                            "name": "Udayapur",
+                            "code": "21907"
+                        },
+                        {
+                            "name": "Chisapani",
+                            "code": "21910"
+                        },
+                        {
+                            "name": "Godahana",
+                            "code": "21911"
+                        },
+                        {
+                            "name": "Jayaspur",
+                            "code": "21912"
+                        },
+                        {
+                            "name": "Khajura",
+                            "code": "21913"
+                        },
+                        {
+                            "name": "Chandranagar",
+                            "code": "21914"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rolpa",
+                    "places": [
+                        {
+                            "name": "Rolpa D.P.O.",
+                            "code": "22100"
+                        },
+                        {
+                            "name": "Khungri",
+                            "code": "22102"
+                        },
+                        {
+                            "name": "Sirpa",
+                            "code": "22103"
+                        },
+                        {
+                            "name": "Thawang",
+                            "code": "22106"
+                        },
+                        {
+                            "name": "Himtakura",
+                            "code": "22107"
+                        },
+                        {
+                            "name": "Ghartigaun",
+                            "code": "22108"
+                        },
+                        {
+                            "name": "Nerpa",
+                            "code": "22110"
+                        },
+                        {
+                            "name": "Dahaban",
+                            "code": "22111"
+                        },
+                        {
+                            "name": "Shulichaur",
+                            "code": "22112"
+                        },
+                        {
+                            "name": "Jhenam (Holeri)",
+                            "code": "21912"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pyuthan",
+                    "places": [
+                        {
+                            "name": "Pyuthan D.P.O.",
+                            "code": "22300"
+                        },
+                        {
+                            "name": "Dakhaquadi",
+                            "code": "22301"
+                        },
+                        {
+                            "name": "Bhingri",
+                            "code": "22303"
+                        },
+                        {
+                            "name": "Wagesal",
+                            "code": "22304"
+                        },
+                        {
+                            "name": "Baraula",
+                            "code": "22305"
+                        },
+                        {
+                            "name": "Majuwa",
+                            "code": "22307"
+                        },
+                        {
+                            "name": "Machchhi",
+                            "code": "22308"
+                        },
+                        {
+                            "name": "Thulabesi",
+                            "code": "22309"
+                        },
+                        {
+                            "name": "Lungbahane",
+                            "code": "22310"
+                        },
+                        {
+                            "name": "Bijuwar",
+                            "code": "22311"
+                        },
+                        {
+                            "name": "Naya Gaun",
+                            "code": "22312"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dang",
+                    "places": [
+                        {
+                            "name": "Dang D.P.O.",
+                            "code": "22400"
+                        },
+                        {
+                            "name": "Hapur",
+                            "code": "22402"
+                        },
+                        {
+                            "name": "Jumlepani",
+                            "code": "22403"
+                        },
+                        {
+                            "name": "Bhaluwang",
+                            "code": "22404"
+                        },
+                        {
+                            "name": "Koilabas",
+                            "code": "22405"
+                        },
+                        {
+                            "name": "Jangrahawa",
+                            "code": "22406"
+                        },
+                        {
+                            "name": "Rampur",
+                            "code": "22407"
+                        },
+                        {
+                            "name": "Urahari",
+                            "code": "22408"
+                        },
+                        {
+                            "name": "Hekuli",
+                            "code": "22409"
+                        },
+                        {
+                            "name": "Panchakule",
+                            "code": "22410"
+                        },
+                        {
+                            "name": "Tulsipur",
+                            "code": "22412"
+                        },
+                        {
+                            "name": "Manpur",
+                            "code": "22413"
+                        },
+                        {
+                            "name": "Lamahi",
+                            "code": "22414"
+                        },
+                        {
+                            "name": "Ghoraha",
+                            "code": "22415"
+                        }
+                    ]
+                },
+                {
+                    "name": "Palpa",
+                    "places": [
+                        {
+                            "name": "Palpa D.P.O.",
+                            "code": "32500"
+                        },
+                        {
+                            "name": "Sahalkot",
+                            "code": "32501"
+                        },
+                        {
+                            "name": "Rampur",
+                            "code": "32502"
+                        },
+                        {
+                            "name": "Hungi",
+                            "code": "32503"
+                        },
+                        {
+                            "name": "Jalpa",
+                            "code": "32504"
+                        },
+                        {
+                            "name": "Tahu",
+                            "code": "32505"
+                        },
+                        {
+                            "name": "Jhadewa",
+                            "code": "32506"
+                        },
+                        {
+                            "name": "Aryabhanjyang",
+                            "code": "32507"
+                        },
+                        {
+                            "name": "Madanpokhara",
+                            "code": "32508"
+                        },
+                        {
+                            "name": "Khasyauli",
+                            "code": "32509"
+                        },
+                        {
+                            "name": "Argali",
+                            "code": "32510"
+                        },
+                        {
+                            "name": "Chhahara",
+                            "code": "32511"
+                        },
+                        {
+                            "name": "Palungmainadi",
+                            "code": "32512"
+                        },
+                        {
+                            "name": "Baldengadi",
+                            "code": "32513"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gulmi",
+                    "places": [
+                        {
+                            "name": "Gulmi D.P.O.",
+                            "code": "32600"
+                        },
+                        {
+                            "name": "Bharse",
+                            "code": "32602"
+                        },
+                        {
+                            "name": "Chandrakot",
+                            "code": "32603"
+                        },
+                        {
+                            "name": "Majuwa",
+                            "code": "32604"
+                        },
+                        {
+                            "name": "Ridi",
+                            "code": "32605"
+                        },
+                        {
+                            "name": "Sringa",
+                            "code": "32606"
+                        },
+                        {
+                            "name": "Birabas",
+                            "code": "32607"
+                        },
+                        {
+                            "name": "Wami",
+                            "code": "32609"
+                        },
+                        {
+                            "name": "Ismadohali",
+                            "code": "32610"
+                        },
+                        {
+                            "name": "Dhurkot",
+                            "code": "32611"
+                        },
+                        {
+                            "name": "Purkotadha",
+                            "code": "32612"
+                        },
+                        {
+                            "name": "Arje",
+                            "code": "32613"
+                        },
+                        {
+                            "name": "Manabhak",
+                            "code": "32614"
+                        },
+                        {
+                            "name": "Pipaldanda",
+                            "code": "32615"
+                        }
+                    ]
+                },
+                {
+                    "name": "Arghakhachi",
+                    "places": [
+                        {
+                            "name": "Arghakhanchi D.P.O.",
+                            "code": "32700"
+                        },
+                        {
+                            "name": "Balkot",
+                            "code": "32701"
+                        },
+                        {
+                            "name": "Arghatosh",
+                            "code": "32702"
+                        },
+                        {
+                            "name": "Khan",
+                            "code": "32703"
+                        },
+                        {
+                            "name": "Wangla",
+                            "code": "32704"
+                        },
+                        {
+                            "name": "Hamshapur",
+                            "code": "32705"
+                        },
+                        {
+                            "name": "Thada",
+                            "code": "32706"
+                        },
+                        {
+                            "name": "Khilji",
+                            "code": "32708"
+                        },
+                        {
+                            "name": "Khidim",
+                            "code": "32709"
+                        },
+                        {
+                            "name": "Pali",
+                            "code": "32710"
+                        },
+                        {
+                            "name": "Dhikura",
+                            "code": "32711"
+                        },
+                        {
+                            "name": "Argha",
+                            "code": "32712"
+                        },
+                        {
+                            "name": "Subarnakhal",
+                            "code": "32713"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kapilbastu",
+                    "places": [
+                        {
+                            "name": "Kapilbastu D.P.O.",
+                            "code": "32800"
+                        },
+                        {
+                            "name": "Pipara",
+                            "code": "32801"
+                        },
+                        {
+                            "name": "Patariya",
+                            "code": "32802"
+                        },
+                        {
+                            "name": "Pakadi",
+                            "code": "32804"
+                        },
+                        {
+                            "name": "Kopawa",
+                            "code": "32805"
+                        },
+                        {
+                            "name": "Gotihawa",
+                            "code": "32808"
+                        },
+                        {
+                            "name": "Grusinge",
+                            "code": "32809"
+                        },
+                        {
+                            "name": "Pattharkot",
+                            "code": "32810"
+                        },
+                        {
+                            "name": "Thuniya",
+                            "code": "32811"
+                        },
+                        {
+                            "name": "Maharajgung",
+                            "code": "32812"
+                        },
+                        {
+                            "name": "Ganeshpur",
+                            "code": "32813"
+                        },
+                        {
+                            "name": "Chanauta",
+                            "code": "32814"
+                        },
+                        {
+                            "name": "Krishnanagar",
+                            "code": "32815"
+                        },
+                        {
+                            "name": "Shiva Raj",
+                            "code": "32816"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rupandehi",
+                    "places": [
+                        {
+                            "name": "Rupandehi D.P.O.",
+                            "code": "32900"
+                        },
+                        {
+                            "name": "Siktahan",
+                            "code": "32901"
+                        },
+                        {
+                            "name": "Dhakadhai",
+                            "code": "32902"
+                        },
+                        {
+                            "name": "Manigram",
+                            "code": "32903"
+                        },
+                        {
+                            "name": "Kotihawa",
+                            "code": "32904"
+                        },
+                        {
+                            "name": "Thutipipal",
+                            "code": "32905"
+                        },
+                        {
+                            "name": "Butwal",
+                            "code": "32907"
+                        },
+                        {
+                            "name": "Perroha",
+                            "code": "32908"
+                        },
+                        {
+                            "name": "Sauraha Pharsa",
+                            "code": "32909"
+                        },
+                        {
+                            "name": "Amuwa",
+                            "code": "32910"
+                        },
+                        {
+                            "name": "Saljhandi",
+                            "code": "32911"
+                        },
+                        {
+                            "name": "Suryapura",
+                            "code": "32912"
+                        },
+                        {
+                            "name": "Tenuhawa",
+                            "code": "32913"
+                        },
+                        {
+                            "name": "Lumbini",
+                            "code": "32914"
+                        },
+                        {
+                            "name": "Betkuiya",
+                            "code": "32915"
+                        },
+                        {
+                            "name": "Mahadehiya",
+                            "code": "32916"
+                        }
+                    ]
+                },
+                {
+                    "name": "Nawalparasi",
+                    "places": [
+                        {
+                            "name": "Nawalparasi D.P.O.",
+                            "code": "33000"
+                        },
+                        {
+                            "name": "Rakuwa",
+                            "code": "33001"
+                        },
+                        {
+                            "name": "Bulingtar",
+                            "code": "33002"
+                        },
+                        {
+                            "name": "Gaindakot",
+                            "code": "33003"
+                        },
+                        {
+                            "name": "Dumkauli",
+                            "code": "33004"
+                        },
+                        {
+                            "name": "Shergunj",
+                            "code": "33005"
+                        },
+                        {
+                            "name": "Naya Belhani",
+                            "code": "33006"
+                        },
+                        {
+                            "name": "Tribeni",
+                            "code": "33007"
+                        },
+                        {
+                            "name": "Semari",
+                            "code": "33008"
+                        },
+                        {
+                            "name": "Guthi persauni",
+                            "code": "33009"
+                        },
+                        {
+                            "name": "Bhujahawa",
+                            "code": "33010"
+                        },
+                        {
+                            "name": "Makar",
+                            "code": "33011"
+                        },
+                        {
+                            "name": "Tilakpur",
+                            "code": "33012"
+                        },
+                        {
+                            "name": "Maheshpur",
+                            "code": "33013"
+                        },
+                        {
+                            "name": "Sunawal",
+                            "code": "33015"
+                        },
+                        {
+                            "name": "Pithauli",
+                            "code": "33016"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Province 6",
+            "district": [
+                {
+                    "name": "Humla",
+                    "places": [
+                        {
+                            "name": "Humla D.P.O.",
+                            "code": "21000"
+                        },
+                        {
+                            "name": "Muchu",
+                            "code": "21003"
+                        },
+                        {
+                            "name": "Lali",
+                            "code": "21004"
+                        },
+                        {
+                            "name": "Sarkegadh",
+                            "code": "21005"
+                        },
+                        {
+                            "name": "Darma",
+                            "code": "21007"
+                        },
+                        {
+                            "name": "Srinagar",
+                            "code": "21008"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mugu",
+                    "places": [
+                        {
+                            "name": "Mugu D.P.O.",
+                            "code": "21100"
+                        },
+                        {
+                            "name": "Rowa",
+                            "code": "21102"
+                        },
+                        {
+                            "name": "Pulu",
+                            "code": "21103"
+                        },
+                        {
+                            "name": "Sorubarma",
+                            "code": "21105"
+                        },
+                        {
+                            "name": "Rara",
+                            "code": "21106"
+                        },
+                        {
+                            "name": "Sukhadhik",
+                            "code": "21107"
+                        },
+                        {
+                            "name": "Gumtha",
+                            "code": "21109"
+                        },
+                        {
+                            "name": "Dhainkot",
+                            "code": "21110"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jumla",
+                    "places": [
+                        {
+                            "name": "Jumla D.P.O.",
+                            "code": "21200"
+                        },
+                        {
+                            "name": "Dillichaur",
+                            "code": "21202"
+                        },
+                        {
+                            "name": "Tatopani",
+                            "code": "21204"
+                        },
+                        {
+                            "name": "Malikathata",
+                            "code": "21205"
+                        },
+                        {
+                            "name": "Kalikakhetu",
+                            "code": "21206"
+                        },
+                        {
+                            "name": "Narakot",
+                            "code": "21207"
+                        },
+                        {
+                            "name": "Hatsinja",
+                            "code": "21208"
+                        },
+                        {
+                            "name": "Chhautha",
+                            "code": "21209"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kalikot",
+                    "places": [
+                        {
+                            "name": "Kalikot D.P.O.",
+                            "code": "21300"
+                        },
+                        {
+                            "name": "Sanniraskot",
+                            "code": "21303"
+                        },
+                        {
+                            "name": "Mehalmudi",
+                            "code": "21304"
+                        },
+                        {
+                            "name": "Kotbada",
+                            "code": "21305"
+                        },
+                        {
+                            "name": "Kalikot",
+                            "code": "21306"
+                        },
+                        {
+                            "name": "Padamghat",
+                            "code": "21307"
+                        },
+                        {
+                            "name": "Jubitha",
+                            "code": "21309"
+                        },
+                        {
+                            "name": "Thirpu",
+                            "code": "21309"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dolpa",
+                    "places": [
+                        {
+                            "name": "Dolpa D.P.O.",
+                            "code": "21400"
+                        },
+                        {
+                            "name": "Juphal",
+                            "code": "21401"
+                        },
+                        {
+                            "name": "Tripurakot",
+                            "code": "21402"
+                        },
+                        {
+                            "name": "Liku",
+                            "code": "21403"
+                        },
+                        {
+                            "name": "Sarmi",
+                            "code": "21404"
+                        },
+                        {
+                            "name": "Kaigaun",
+                            "code": "21405"
+                        },
+                        {
+                            "name": "Foksundo",
+                            "code": "21406"
+                        },
+                        {
+                            "name": "Namdo",
+                            "code": "21407"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jaajarkot",
+                    "places": [
+                        {
+                            "name": "Jajarkot D.P.O.",
+                            "code": "21500"
+                        },
+                        {
+                            "name": "Dhime",
+                            "code": "21503"
+                        },
+                        {
+                            "name": "Dalli",
+                            "code": "21504"
+                        },
+                        {
+                            "name": "Ragda",
+                            "code": "21505"
+                        },
+                        {
+                            "name": "Rokaya gaun (Limsa)",
+                            "code": "21506"
+                        },
+                        {
+                            "name": "Dashera",
+                            "code": "21508"
+                        },
+                        {
+                            "name": "Thalaraikar",
+                            "code": "21509"
+                        },
+                        {
+                            "name": "Garkhakot",
+                            "code": "21510"
+                        },
+                        {
+                            "name": "Karkigaun",
+                            "code": "21511"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dailekh",
+                    "places": [
+                        {
+                            "name": "Dailekh D.P.O.",
+                            "code": "21600"
+                        },
+                        {
+                            "name": "Gaidabaj",
+                            "code": "21602"
+                        },
+                        {
+                            "name": "Naumule",
+                            "code": "21603"
+                        },
+                        {
+                            "name": "Byastada",
+                            "code": "21604"
+                        },
+                        {
+                            "name": "Dhungeshwor",
+                            "code": "21605"
+                        },
+                        {
+                            "name": "Malika",
+                            "code": "21607"
+                        },
+                        {
+                            "name": "Dullu",
+                            "code": "21608"
+                        },
+                        {
+                            "name": "Jambu Kandha",
+                            "code": "21609"
+                        },
+                        {
+                            "name": "Rakam Karnali",
+                            "code": "21610"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dailekh",
+                    "places": [
+                        {
+                            "name": "Dailekh D.P.O.",
+                            "code": "21600"
+                        },
+                        {
+                            "name": "Gaidabaj",
+                            "code": "21602"
+                        },
+                        {
+                            "name": "Naumule",
+                            "code": "21603"
+                        },
+                        {
+                            "name": "Byastada",
+                            "code": "21604"
+                        },
+                        {
+                            "name": "Dhungeshwor",
+                            "code": "21605"
+                        },
+                        {
+                            "name": "Malika",
+                            "code": "21607"
+                        },
+                        {
+                            "name": "Dullu",
+                            "code": "21608"
+                        },
+                        {
+                            "name": "Jambu Kandha",
+                            "code": "21609"
+                        },
+                        {
+                            "name": "Rakam Karnali",
+                            "code": "21610"
+                        }
+                    ]
+                },
+                {
+                    "name": "Surkhet",
+                    "places": [
+                        {
+                            "name": "Surkhet (M.W.R.P.D.)",
+                            "code": "21700"
+                        },
+                        {
+                            "name": "Chhinchu",
+                            "code": "21701"
+                        },
+                        {
+                            "name": "Ramghat",
+                            "code": "21702"
+                        },
+                        {
+                            "name": "Sahare",
+                            "code": "21703"
+                        },
+                        {
+                            "name": "Gumi",
+                            "code": "21704"
+                        },
+                        {
+                            "name": "Bheriganga",
+                            "code": "21705"
+                        },
+                        {
+                            "name": "Matela",
+                            "code": "21706"
+                        },
+                        {
+                            "name": "Garpan",
+                            "code": "21707"
+                        },
+                        {
+                            "name": "Kunathari",
+                            "code": "21709"
+                        },
+                        {
+                            "name": "Babiyachaur",
+                            "code": "21710"
+                        },
+                        {
+                            "name": "Gutu",
+                            "code": "21711"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rukum",
+                    "places": [
+                        {
+                            "name": "Rukum D.P.O.",
+                            "code": "22000"
+                        },
+                        {
+                            "name": "Rukumkot",
+                            "code": "22002"
+                        },
+                        {
+                            "name": "Riwangchaur",
+                            "code": "22004"
+                        },
+                        {
+                            "name": "Kol",
+                            "code": "22005"
+                        },
+                        {
+                            "name": "Peugha",
+                            "code": "22007"
+                        },
+                        {
+                            "name": "Chaur Jahari",
+                            "code": "22008"
+                        },
+                        {
+                            "name": "Simli",
+                            "code": "22009"
+                        },
+                        {
+                            "name": "Radijyula",
+                            "code": "22010"
+                        },
+                        {
+                            "name": "Baphikot",
+                            "code": "22011"
+                        }
+                    ]
+                },
+                {
+                    "name": "Salyan",
+                    "places": [
+                        {
+                            "name": "Salyan D.P.O.",
+                            "code": "22200"
+                        },
+                        {
+                            "name": "Kalimati Kalche",
+                            "code": "22201"
+                        },
+                        {
+                            "name": "Luham",
+                            "code": "22202"
+                        },
+                        {
+                            "name": "Dhanbang",
+                            "code": "22203"
+                        },
+                        {
+                            "name": "Mahaneta",
+                            "code": "22204"
+                        },
+                        {
+                            "name": "Malneta",
+                            "code": "22207"
+                        },
+                        {
+                            "name": "Maidu",
+                            "code": "22208"
+                        },
+                        {
+                            "name": "Ragechour",
+                            "code": "22209"
+                        },
+                        {
+                            "name": "Bhalchaur",
+                            "code": "22210"
+                        },
+                        {
+                            "name": "Tharmare",
+                            "code": "22211"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Province 7",
+            "district": [
+                {
+                    "name": "Daarchula",
+                    "places": [
+                        {
+                            "name": "Duhuti",
+                            "code": "10102"
+                        },
+                        {
+                            "name": "Malikarjun",
+                            "code": "10104"
+                        },
+                        {
+                            "name": "Joljibi",
+                            "code": "10105"
+                        },
+                        {
+                            "name": "Ritha Chaupata",
+                            "code": "10107"
+                        },
+                        {
+                            "name": "Gokuleshwor",
+                            "code": "10108"
+                        },
+                        {
+                            "name": "Sitola",
+                            "code": "10109"
+                        },
+                        {
+                            "name": "Marmalatinath",
+                            "code": "10110"
+                        },
+                        {
+                            "name": "Sipti",
+                            "code": "10111"
+                        },
+                        {
+                            "name": "Dandakot",
+                            "code": "10116"
+                        }
+                    ]
+                },
+                {
+                    "name": "Baitadi",
+                    "places": [
+                        {
+                            "name": "Baitadi D.P.O.",
+                            "code": "10200"
+                        },
+                        {
+                            "name": "Kesharpur",
+                            "code": "10201"
+                        },
+                        {
+                            "name": "Patan",
+                            "code": "10202"
+                        },
+                        {
+                            "name": "Khodpe",
+                            "code": "10203"
+                        },
+                        {
+                            "name": "Mulkhatali",
+                            "code": "10204"
+                        },
+                        {
+                            "name": "Gajari Changgad",
+                            "code": "10205"
+                        },
+                        {
+                            "name": "Dehimandau",
+                            "code": "10207"
+                        },
+                        {
+                            "name": "Sharmali",
+                            "code": "10209"
+                        },
+                        {
+                            "name": "Srikot",
+                            "code": "10210"
+                        },
+                        {
+                            "name": "Dilasaini",
+                            "code": "10211"
+                        },
+                        {
+                            "name": "Swopana Taladehi",
+                            "code": "10212"
+                        },
+                        {
+                            "name": "Purchaudihat",
+                            "code": "10213"
+                        },
+                        {
+                            "name": "Sitad",
+                            "code": "10214"
+                        },
+                        {
+                            "name": "Dhungad",
+                            "code": "10215"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dadeldhura",
+                    "places": [
+                        {
+                            "name": "Dadeldhura D.P.O.",
+                            "code": "10300"
+                        },
+                        {
+                            "name": "Ugratara",
+                            "code": "10302"
+                        },
+                        {
+                            "name": "Dandaban",
+                            "code": "10303"
+                        },
+                        {
+                            "name": "Ganeshpur",
+                            "code": "10304"
+                        },
+                        {
+                            "name": "Gaira Ganeshpur",
+                            "code": "10305"
+                        },
+                        {
+                            "name": "Jogbudha",
+                            "code": "10306"
+                        },
+                        {
+                            "name": "Lamikande",
+                            "code": "10307"
+                        },
+                        {
+                            "name": "Chipur",
+                            "code": "10308"
+                        },
+                        {
+                            "name": "Ajayameru",
+                            "code": "10309"
+                        },
+                        {
+                            "name": "Joshipur",
+                            "code": "10310"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kanchanpur",
+                    "places": [
+                        {
+                            "name": "Kanchanpur D.P.O.",
+                            "code": "10400"
+                        },
+                        {
+                            "name": "Krishnapur",
+                            "code": "10401"
+                        },
+                        {
+                            "name": "Kalika",
+                            "code": "10402"
+                        },
+                        {
+                            "name": "Punarbas",
+                            "code": "10403"
+                        },
+                        {
+                            "name": "Beldadi",
+                            "code": "10404"
+                        },
+                        {
+                            "name": "Pipaladi",
+                            "code": "10405"
+                        },
+                        {
+                            "name": "Kanchanpur",
+                            "code": "10406"
+                        },
+                        {
+                            "name": "Chandani",
+                            "code": "10407"
+                        },
+                        {
+                            "name": "Airport",
+                            "code": "10409"
+                        },
+                        {
+                            "name": "Suda",
+                            "code": "10410"
+                        },
+                        {
+                            "name": "Jhalari",
+                            "code": "10411"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bajhang",
+                    "places": [
+                        {
+                            "name": "Bajhang D.P.O.",
+                            "code": "10500"
+                        },
+                        {
+                            "name": "Talkot",
+                            "code": "10501"
+                        },
+                        {
+                            "name": "Jamatola",
+                            "code": "10502"
+                        },
+                        {
+                            "name": "Jaya Prithivi Nagar",
+                            "code": "10505"
+                        },
+                        {
+                            "name": "Chammna",
+                            "code": "10506"
+                        },
+                        {
+                            "name": "Choudhari",
+                            "code": "10507"
+                        },
+                        {
+                            "name": "Rayal",
+                            "code": "10508"
+                        },
+                        {
+                            "name": "Thalahara",
+                            "code": "10509"
+                        },
+                        {
+                            "name": "Bungal",
+                            "code": "10510"
+                        },
+                        {
+                            "name": "Shayadi",
+                            "code": "10511"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bajura",
+                    "places": [
+                        {
+                            "name": "Bajura D.P.O.",
+                            "code": "10600"
+                        },
+                        {
+                            "name": "Dandakot",
+                            "code": "10602"
+                        },
+                        {
+                            "name": "Jukot",
+                            "code": "10603"
+                        },
+                        {
+                            "name": "Faiti",
+                            "code": "10604"
+                        },
+                        {
+                            "name": "Kolti",
+                            "code": "10605"
+                        },
+                        {
+                            "name": "Manakot",
+                            "code": "10606"
+                        },
+                        {
+                            "name": "Dogadi",
+                            "code": "10607"
+                        },
+                        {
+                            "name": "Tate",
+                            "code": "10608"
+                        },
+                        {
+                            "name": "Chhatara",
+                            "code": "10609"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bajura",
+                    "places": [
+                        {
+                            "name": "Achham D.P.O.",
+                            "code": "10700"
+                        },
+                        {
+                            "name": "Chaurpati",
+                            "code": "10701"
+                        },
+                        {
+                            "name": "Srikot",
+                            "code": "10702"
+                        },
+                        {
+                            "name": "Thanti",
+                            "code": "10703"
+                        },
+                        {
+                            "name": "Mellekh",
+                            "code": "10704"
+                        },
+                        {
+                            "name": "Bayalpata",
+                            "code": "10705"
+                        },
+                        {
+                            "name": "Bhatakatiya",
+                            "code": "10706"
+                        },
+                        {
+                            "name": "Jayagadh",
+                            "code": "10707"
+                        },
+                        {
+                            "name": "Kalagaun",
+                            "code": "10709"
+                        },
+                        {
+                            "name": "Kuchikot",
+                            "code": "10710"
+                        },
+                        {
+                            "name": "Kamal bazar",
+                            "code": "10711"
+                        },
+                        {
+                            "name": "Dhakari",
+                            "code": "10712"
+                        },
+                        {
+                            "name": "Turmakhad",
+                            "code": "10713"
+                        }
+                    ]
+                },
+                {
+                    "name": "Doti",
+                    "places": [
+                        {
+                            "name": "Doti (F.W.R.P.D.)",
+                            "code": "10800"
+                        },
+                        {
+                            "name": "Silgadhi",
+                            "code": "10801"
+                        },
+                        {
+                            "name": "Sanagaun",
+                            "code": "10802"
+                        },
+                        {
+                            "name": "Dound",
+                            "code": "10803"
+                        },
+                        {
+                            "name": "Mauwa Nagardaha",
+                            "code": "10804"
+                        },
+                        {
+                            "name": "Banedungrasen",
+                            "code": "10805"
+                        },
+                        {
+                            "name": "Jorayal",
+                            "code": "10806"
+                        },
+                        {
+                            "name": "Girdhshera",
+                            "code": "10807"
+                        },
+                        {
+                            "name": "Lanakedareswor",
+                            "code": "10808"
+                        },
+                        {
+                            "name": "Boktan",
+                            "code": "10809"
+                        },
+                        {
+                            "name": "Bael",
+                            "code": "10810"
+                        },
+                        {
+                            "name": "Mudbhara",
+                            "code": "10811"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kailali",
+                    "places": [
+                        {
+                            "name": "Kailali D.P.O.",
+                            "code": "10900"
+                        },
+                        {
+                            "name": "Tikapur",
+                            "code": "10901"
+                        },
+                        {
+                            "name": "Munuwa",
+                            "code": "10902"
+                        },
+                        {
+                            "name": "Dododhara",
+                            "code": "10903"
+                        },
+                        {
+                            "name": "Lamki",
+                            "code": "10904"
+                        },
+                        {
+                            "name": "Masuriya",
+                            "code": "10905"
+                        },
+                        {
+                            "name": "Pahalmanpur",
+                            "code": "10906"
+                        },
+                        {
+                            "name": "Hasuliya",
+                            "code": "10907"
+                        },
+                        {
+                            "name": "Bhajani",
+                            "code": "10908"
+                        },
+                        {
+                            "name": "Joshipur",
+                            "code": "10909"
+                        },
+                        {
+                            "name": "Phulbari",
+                            "code": "10910"
+                        },
+                        {
+                            "name": "Atariya",
+                            "code": "10911"
+                        },
+                        {
+                            "name": "Chaumala",
+                            "code": "10912"
+                        },
+                        {
+                            "name": "Phaltunde",
+                            "code": "10914"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
